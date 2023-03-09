@@ -4,8 +4,11 @@
     justify-content: space-around;
     align-items: center;
     height: 100px;
-    background: rgba(36, 35, 35, 0.558);
+    background: rgba(16, 9, 9, 0.45);
     font-family: 'Russo One', sans-serif;    
+    text-decoration: none;
+    margin-bottom: 30px;
+
 }
 .NavBar h3 {
     font-size: 25px;
@@ -19,6 +22,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    text-decoration: none;
 }
 
 .Option {
@@ -37,12 +41,9 @@
     flex-grow: 0;
     justify-content: center;
     align-items: center;
-    text-decoration: none;
     color: black;
     border: none;
     border-style: none;
-    cursor: pointer;
-    outline: inherit;
 }
 
 .ActiveOption {

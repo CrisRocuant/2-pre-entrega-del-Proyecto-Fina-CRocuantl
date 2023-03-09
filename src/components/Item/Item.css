@@ -30,8 +30,8 @@
 
 
 .ItemImg {
-    width: 230px;
-    height: 230px;
+    width: 190px;
+    height: 190px;
     object-fit: cover;
     object-position: center;
 }
@@ -62,5 +62,5 @@
 }
 .ItemFooter .Option:hover {
     background: black;
-    color: #FFFFFF;
+    color: #fffdfd;
 } 
