@@ -1,4 +1,4 @@
-# Tienda de deportes
+# Tienda de Audio y Vinilos 
 
 # Instrucciones y herramientas
 
